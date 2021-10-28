@@ -1,0 +1,30 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo img{
+    height: 50px;
+}
+.nav-margin{
+    margin-right: 20px;
+}
+.nav-item{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+.register-btn{
+    background-color: #3F90FC;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+}
+.admin-btn{ 
+    background-color: #434141;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+}

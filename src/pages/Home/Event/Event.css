@@ -1,0 +1,22 @@
+.event-container{
+    position: relative;
+}
+.event-container:hover{
+    cursor: pointer;
+}
+.event-img{
+    width: 100%;
+}
+.event-text{
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    padding: 20px 0;
+    border-radius: 0 0 12px 12px;
+}
+.title-text{
+    color: white;
+    text-align: center;
+    margin: 0 auto;
+    padding: 0 20px;
+}

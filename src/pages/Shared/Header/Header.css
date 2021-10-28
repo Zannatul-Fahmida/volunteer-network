@@ -14,12 +14,14 @@
     color: black;
     font-weight: bold;
 }
-.register-btn{
+.common-btn{
     background-color: #3F90FC;
     color: white;
-    padding: 10px 20px;
     border: none;
+}
+.register-btn{
     border-radius: 5px;
+    padding: 10px 20px;
 }
 .admin-btn{ 
     background-color: #434141;

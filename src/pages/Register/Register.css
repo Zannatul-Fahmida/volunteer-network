@@ -1,0 +1,23 @@
+.register-form{
+    width: 40%;
+    height: 60%;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border: 2px solid rgb(199, 198, 198);
+    padding: 15px 20px;
+}
+.register-form h2{
+    margin-bottom: 30px;
+}
+.register-input{
+    border: none;
+    border-bottom: 1px solid gray;
+    margin-bottom: 20px;
+    font-size: 16px;
+}
+.registration-btn{
+    padding: 10px 0;
+    border-radius: 0;
+}

@@ -1,0 +1,36 @@
+.info-bg{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background-color: #E5E5E5;
+    align-items: center;
+    justify-content: center;
+}
+.info-logo{
+    padding: 30px 0;
+}
+.info-logo img{
+    height: 80px;
+}
+.login-form{
+    width: 40%;
+    height: 50%;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid rgb(199, 198, 198);
+}
+.google-btn{
+    background-color: white;
+    border: 1px solid rgb(173, 173, 173);
+    padding: 10px 40px;
+    border-radius: 20px;
+}
+.google-btn:hover{
+    cursor: pointer;
+}
+.icon-color{
+    color: rgb(0, 102, 255);
+}
